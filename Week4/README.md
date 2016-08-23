@@ -1,6 +1,4 @@
 #Week 4 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
-
 ![python logo](../Week3/images/python-logo.png)
 ## Advanced Python Programming Language ##
 
@@ -18,16 +16,19 @@ In this week, you will again be delving further into Unix and Python. First, you
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 4 Introduction Video](**|10 Minutes|Tuesday|20|
+|**[Week 4 Introduction Video][w4v]**|10 Minutes|Tuesday|20|
 |**[Week 4 Lesson 1: Unix: Working with Data](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 4 Lesson 2: Python: Strings & Lists](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 4 Lesson 3: Python: Tuples & Dictionaries](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week 4 Quiz**| 30 Minutes | Friday | 70|
-|**Week 4 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 4 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**[Week 4 Quiz][w4q]**| 30 Minutes | Friday | 70|
+|**[Week 4 Assignment Submission][w4a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 4 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w4a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095203
+[w4q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095200
+[w4v]: https://mediaspace.illinois.edu/media/Week+Four/1_l259tvnv
 
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.
